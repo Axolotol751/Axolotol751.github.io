@@ -17,7 +17,7 @@
             --card-border: rgba(48, 54, 61, 0.5);
             --text-primary: #e6edf3;
             --text-secondary: #8b949e;
-            --accent-color: #ff80ab;
+            --accent-color: #f48fb1;
             --accent-glow: rgba(255, 128, 171, 0.3);
             --glass-blur: blur(20px);
         }
@@ -181,7 +181,7 @@
             grid-row: span 2;
             padding: 0;
             position: relative;
-            background-image: url('render.jpg');
+            background-image: url('5249498167106016120.jpg');
             background-size: cover;
             background-position: center;
         }
@@ -448,7 +448,7 @@
             </div>
 
             <!-- Projects -->
-            <a href="#" target="_blank" class="card projects">
+            <a href="https://t.me/CologneCathedralAxo" target="_blank" class="card projects">
                 <div class="projects-content">
                     <h2 data-ru="Мои работы" data-en="My Projects">Мои работы</h2>
                     <p data-ru="Связаться через Telegram" data-en="Contact via Telegram">Связаться через Telegram</p>
